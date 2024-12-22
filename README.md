@@ -6,7 +6,7 @@
 
 <h2>Certifications</h2>
 
-- [COMPTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [COMPTIA A+](https://i.imgur.com/Jc48pMJ.png)
 
 
 <!--
