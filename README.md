@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/yaboyC3/LABURL)
+- [Top Ten IT Support Tickets Lab](https://github.com/YaboyC3/toptenhelpdesktickets)
+- [Active Directory Lab](https://github.com/yaboyC3/LABURL)
 
 <h2>Certifications</h2>
 
