@@ -1,7 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Cristian!
+
+<h2>👨‍💻 IT Support Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/yaboyC3/LABURL)
+
+<h2>Certifications</h2>
+
+- [COMPTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 
 <!--
-**YaboyC3/YaBoyC3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
