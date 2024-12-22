@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- [Top Ten IT Support Tickets Lab](https://github.com/YaboyC3/toptenhelpdesktickets)
+- [Ten Most Common IT Support Tickets Lab](https://github.com/YaboyC3/toptenhelpdesktickets)
 - [Active Directory Lab](https://github.com/YaboyC3/ActiveDirectoryLab)
 
 <h2>Certifications</h2>
